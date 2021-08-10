@@ -2,6 +2,7 @@
 This is repository for Yodo company test task
 
 Задание
+
 Вы сканируете QR код и подключаетесь также как подключаете WhatsApp Web. И отправляете сообщение своему другу через наш API
 
 Шаги:
